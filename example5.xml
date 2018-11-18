@@ -1,0 +1,5 @@
+<speak>
+     When any voice is made to whisper, <amazon:effect name="whispered">
+     <prosody rate="-10%">the sound is slower and quieter than normal speech
+     </prosody></amazon:effect>
+</speak>

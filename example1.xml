@@ -1,0 +1,14 @@
+<speak>
+    <prosody amazon:max-duration="2400ms">
+        Human speech is a powerful way to communicate.
+    </prosody>
+    <break strength="strong"/>
+    <prosody amazon:max-duration="5100ms">
+        Even a simple ‘Hello’ can convey a lot of information depending on the pitch, intonation, and tempo.
+    </prosody>
+    <break strength="strong"/>
+    <prosody amazon:max-duration="8900ms">
+        We naturally understand this information, which is why speech is ideal for creating applications where
+        a screen isn’t practical or possible, or simply isn’t convenient.
+    </prosody>
+</speak>

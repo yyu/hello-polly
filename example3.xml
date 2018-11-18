@@ -1,0 +1,8 @@
+<speak>
+    This is my original voice, without any modifications. <amazon:effect vocal-tract-length="+15%">
+    Now, imagine that I am much bigger. </amazon:effect> <amazon:effect vocal-tract-length="-15%">
+    Or, perhaps you prefer my voice when I'm very small. </amazon:effect> You can also control the
+    timbre of my voice by making minor adjustments. <amazon:effect vocal-tract-length="+10%">
+    For example, by making me sound just a little bigger. </amazon:effect><amazon:effect
+    vocal-tract-length="-10%"> Or, making me sound only somewhat smaller. </amazon:effect>
+</speak>
